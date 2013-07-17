@@ -1,0 +1,6 @@
+[
+	{ "keys": ["ctrl+v"], "command": "paste_and_indent" },
+	{ "keys": ["ctrl+shift+v"], "command": "paste" },
+	{ "keys": ["ctrl+d"], "command": "toggle_comment", "args": { "block": false } },
+	{ "keys": ["ctrl+shift+d"], "command": "toggle_comment", "args": { "block": true } },
+]

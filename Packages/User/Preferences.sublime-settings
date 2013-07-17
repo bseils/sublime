@@ -1,0 +1,30 @@
+{
+	"theme": "Soda Dark 3.sublime-theme",
+	"color_scheme": "Packages/Dayle Rees Color Schemes/Hyrule.tmTheme",
+
+	"font_face": "Source Code Pro",
+	"font_size": 12,
+
+	"fold_buttons": false,
+	"scroll_speed": 0.75,
+
+	"hot_exit": false,
+	"remember_open_files": false,
+	"close_windows_when_empty": true,
+
+	"soda_classic_tabs": true,
+	"highlight_modified_tabs": true,
+
+	"trim_trailing_white_space_on_save": true,
+	"ensure_newline_at_eof_on_save": true,
+
+	"auto_find_in_selection": true,
+	"save_on_focus_lost": true,
+	"show_full_path": false,
+
+	"overlay_scroll_bars": "enabled",
+	"default_line_ending": "unix",
+
+	"tab_completion": false,
+	"auto_complete": false
+}
